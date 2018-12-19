@@ -1,0 +1,5 @@
+@charset "UTF-8";
+totara-frontpage-list .banner .imageHolder img {
+  width: 100%;
+  content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Levi%27s_logo.svg/2000px-Levi%27s_logo.svg.png");
+}
